@@ -10,6 +10,5 @@ def before_scenario(context,scenario):
     context.browser.maximize_window()
     context.dd = dragdrop.drag_drop(context.browser)
 
-
 def after_scenario(context,scenario):
     context.browser.close()
