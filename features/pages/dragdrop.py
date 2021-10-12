@@ -4,7 +4,6 @@ from browser import Browser
 object_to_drag = "draggable"
 object_to_drop = "droppable"
 
-
 class drag_drop(Browser):
 
     def drag(self):
