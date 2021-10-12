@@ -1,3 +1,4 @@
 behave==1.2.6
 selenium==3.141.0
+features==0.5.12
 numpy==1.21.2

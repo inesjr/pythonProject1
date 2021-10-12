@@ -5,7 +5,6 @@ from selenium.webdriver import ActionChains
 
 import features
 
-
 @given(u'the user is on the home page')
 def step_impl(context):
 
