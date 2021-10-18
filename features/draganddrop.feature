@@ -1,4 +1,5 @@
 Feature: drag and drop
+  @blocker
   Scenario: drag and drop success
     Given the user is on the home page
     When he drag and drop the grey box in the blue box
